@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hi! I am Xinzhe Liu (刘鑫喆), a third-year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Xia Yin and co-advised by Assistant Prof. Yahui Li. I also conduct research at Zhongguancun Laboratory. Prior to this, I received my Bachelor's degree from Harbin Institute of Technology.
+Hi! I am **Xinzhe Liu (刘鑫喆)**, a third-year Ph.D. student in the Department of Computer Science and Technology at **Tsinghua University**, advised by Prof. **Xia Yin** and co-advised by Assistant Prof. **Yahui Li**. I also conduct research at **Zhongguancun Laboratory**. Prior to this, I received my Bachelor's degree from Harbin Institute of Technology.
 
-My research interests primarily lie in cyberspace security, network simulation, and network verification. Currently, my work focuses on fuzzing and vulnerability mining technologies for network systems (including but not limited to 5G systems). I also have research experience in network measurement.
+My research interests primarily lie in **cyberspace security**, **network simulation**, and **network verification**. Currently, my work focuses on **fuzzing and vulnerability mining technologies** for network systems (including but not limited to 5G systems). I also have research experience in network measurement.
 
 If you are interested in my research, open to potential collaboration, or have relevant job opportunities, please feel free to contact me!
 
