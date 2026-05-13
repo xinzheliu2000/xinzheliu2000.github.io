@@ -17,42 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me
+Hi! I am Xinzhe Liu (刘鑫喆), a third-year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Xia Yin and co-advised by Assistant Prof. Yahui Li. I also conduct research at Zhongguancun Laboratory. Prior to this, I received my Bachelor's degree from Harbin Institute of Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests primarily lie in cyberspace security, network simulation, and network verification. Currently, my work focuses on fuzzing and vulnerability mining technologies for network systems (including but not limited to 5G systems). I also have research experience in network measurement.
 
+If you are interested in my research, open to potential collaboration, or have relevant job opportunities, please feel free to contact me!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 Our Bulwark is accepted by **INFOCOM 2026**!
+- *2025.09*: &nbsp;🎉🎉 Our MEV is accepted by **CoNEXT 2025**!
+- *2025.08*: &nbsp;🎉🎉 Our ERIS Poster is accepted by **CCS 2025**!
+- *2024.06*: &nbsp;🎉🎉 Our MEV Poster is accepted by **SIGCOMM 2024**!
 
 # 📝 Publications 
+*(\* denotes equal contribution)*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<ol>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<li>
+<p><span style="display: inline-block; background-color: #620C70; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM'26</span> Comprehensive Network Configuration Verification via Effective Environment Reduction <a href="#" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true" style="color:#d32f2f;"></i></a></p>
+<p><strong><u>Xinzhe Liu</u></strong>, Yahui Li, Han Zhang, Renrui Tian, Xia Yin, Xingang Shi, Zhiliang Wang, Gang Ren, Jilong Wang and Jiangyuan Yao.</p>
+<p>In Proc. of <em>IEEE INFOCOM</em>, 2026. <span style="color: #620C70;">(CCF-A Conference, TH-CPL A Conference)</span> </p>
+</li>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<li>
+<p><span style="display: inline-block; background-color: #620C70; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CoNEXT'25</span> Scalable and Interpretable Overlay Network Checking via
+Ensemble Verification <a href="https://dl.acm.org/doi/10.1145/3768974" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true" style="color:#d32f2f;"></i></a></p>
+<p><strong><u>Xinzhe Liu</u></strong>, Yahui Li, Han Zhang, Xia Yin, Xingang Shi, Zhiliang Wang, Gang Ren, Jilong Wang and Jiangyuan Yao.</p>
+<p>In Proc. of <em>ACM CoNEXT</em>, 2025. <span style="color: #620C70;">(CCF-B Conference, TH-CPL A Conference)</span> </p>
+</li>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<li>
+<p><span style="display: inline-block; background-color: #620C70; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SIGCOMM'24</span> Poster: Scalable and Interpretable Multilayer Overlay Network
+Checking via Ensemble Verification <a href="https://dl.acm.org/doi/10.1145/3672202.3673722" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true" style="color:#d32f2f;"></i></a></p>
+<p><strong><u>Xinzhe Liu</u></strong>, Yahui Li, Han Zhang, Xia Yin, Xingang Shi, Zhiliang Wang, Gang Ren and Jiangyuan Yao.</p>
+<p>In Proc. of <em>ACM SIGCOMM</em>, 2024. <span style="color: #620C70;">(CCF-A Conference, TH-CPL A Conference)</span> </p>
+</li>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<li>
+<p><span style="display: inline-block; background-color: #1e3c93; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CCS'25</span> Poster: ERIS: Evaluating ROV via ICMPv6 Rate Limiting SideChannels <a href="https://dl.acm.org/doi/10.1145/3719027.3760707" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true" style="color:#d32f2f;"></i></a></p>
+<p>Renrui Tian, Yahui Li, Han Zhang, <strong><u>Xinzhe Liu</u></strong>, Xia Yin, Xingang Shi, Zhiliang Wang and Jilong Wang.</p>
+<p>In Proc. of <em>ACM CCS</em>, 2025. <span style="color: #620C70;">(CCF-A Conference, TH-CPL A Conference)</span> </p>
+</li>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</ol>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*, Ph.D. student, Department of Computer Science and Technology, Tsinghua University. (Advised by Prof. Xia Yin and Assistant Prof. Yahui Li)
+- *2019.09 - 2023.06*, B.E., Harbin Institute of Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2025.09*, Zhongguancun Laboratory Scholarship.
+- *2024.12*, Tsinghua University Comprehensive Excellence Scholarship.
+- *2023.06*, Outstanding Graduate of Harbin Institute of Technology; 
+- *2022.05*, Second Prize, the 15th National College Student Software Innovation Competition.
+- *2019 - 2020*, Outstanding Student of Harbin Institute of Technology.
